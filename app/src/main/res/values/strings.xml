@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appTableLayout</string>
+    <string name="id">ID</string>
+    <string name="Name">NAME</string>
+    <string name="mobile">MOBILE</string>
+    <string name="addrow">ADD ROW FROM JAVA</string>
+    <string name="addrowfromxml">ADD ROW FROM XML</string>
+    <string name="status">STATUS</string>
+    <string name="listview">LIST VIEW</string>
+    <string name="userdetails">USER DETAILS</string>
+    <string name="delete">DELETE</string>
+</resources>
